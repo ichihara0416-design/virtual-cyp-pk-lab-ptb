@@ -1,0 +1,22 @@
+# R session/user files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated analysis products
+Analysis/outputs/
+Analysis/figures/
+Analysis/tables/
+
+# Temporary files
+*.tmp
+*.bak
+*~
