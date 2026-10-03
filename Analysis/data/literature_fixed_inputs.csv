@@ -1,0 +1,12 @@
+﻿input_group,input_id,source,endpoint,dose_mgkg,sampling_time_min,value,unit,role
+reference_calibration,Cp40_30,Fujii et al. 1965,Serum/plasma PTB concentration,40,30,18.0,ug/mL,Reference/control calibration target
+reference_calibration,onset40,Field et al. 1993,LRR onset,40,,4.7,min,Reference/control calibration target
+reference_calibration,duration30,Field et al. 1993,LRR/hypnosis duration,30,,35.0,min,Reference/control calibration target
+reference_calibration,C_RR_thr_anchor,Kato et al. 1969,End-of-narcosis brain PTB concentration anchor,30,,15.84,ug/g,Soft anchor for latent effect-site threshold scale
+external_transportability,Field40_duration,Field et al. 1993,LRR duration,40,,80.5,min,External no-refit comparison
+external_transportability,Field50_onset,Field et al. 1993,LRR onset,50,,3.5,min,External no-refit comparison
+external_transportability,Field50_duration,Field et al. 1993,LRR duration,50,,95.0,min,External no-refit comparison
+external_transportability,Kato25_Cp60,Kato & Chiesara 1962,Serum PTB at 60 min,25,60,17.3,ug/mL,External no-refit comparison
+external_transportability,Kato25_duration,Kato & Chiesara 1962,Sleep duration,25,,82.0,min,External no-refit comparison
+external_transportability,Means50_duration,Means et al. 1978,Sleep duration,50,,172.4,min,External no-refit comparison
+external_transportability,Means50_k,Means et al. 1978,Plasma decline k,50,30;70;100;150,0.00571,min^-1,External no-refit comparison

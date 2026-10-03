@@ -1,0 +1,5 @@
+﻿"benchmark_id","source","endpoint","dose_mgkg","time_min","mean","se","n","sd","cv"
+"Kato_serum_PTB25_60min","Kato & Chiesara 1962","plasma_or_serum",25,60,17.3,0.49,83,4.46411245378071,0.258041182299463
+"Kato_sleep_PTB25","Kato & Chiesara 1962","sleep_duration",25,NA,82,2.8,153,34.6340872551883,0.422366917746199
+"Means_sleep_PTB30","Means et al. 1978 Table II","sleep_duration",30,NA,85.7,9.5,7,25.1346374551136,0.29328631802933
+"Means_sleep_PTB50","Means et al. 1978 Table I","sleep_duration",50,NA,172.4,12.8,12,44.3405006737633,0.257195479546191
